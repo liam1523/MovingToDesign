@@ -11,15 +11,19 @@ Custom Development
 
 Packaged software
 
-| Pros | Cons |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Pros                                 | Cons                    	 	   |
+| :----------------------------------- | :---------------------------------------- |
+| No need to change the product        | Finished product   		           |
+| Time savings                         | Rarely perfect fit     		   |
+| Working base product                 | Must adapt to final product 		   |
+| Possibilities for some customization | No new knowledge                          |
+|                                      | No unique solutions                       |
+|                                      | Reliance on seller to make a good product |
 
 
 Outsourcing
 
-| Pros | Cons |
-| ------------- | ------------- |
+| Pros          | Cons          |
+| :------------ | :------------ |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
