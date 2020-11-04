@@ -1,6 +1,6 @@
 Custom Development
 
-| Pros                                       | Cons                                    |
+| Pros                                       | Cons                                    | 
 | :----------------------------------------- | :-------------------------------------- |
 | Get exactly what we want	             | Takes more time                         |
 | Experience                                 | Requires more skill                     |
@@ -13,8 +13,7 @@ Packaged software
 
 | Pros                                 | Cons                    	 	   |
 | :----------------------------------- | :---------------------------------------- |
-| No need to change the product        | Finished product   		           |
-| Time savings                         | Rarely perfect fit     		   |
+| Time savings                         | Rarely a perfect fit     		   |
 | Working base product                 | Must adapt to final product 		   |
 | Possibilities for some customization | No new knowledge                          |
 |                                      | No unique solutions                       |
@@ -23,7 +22,10 @@ Packaged software
 
 Outsourcing
 
-| Pros          | Cons          |
-| :------------ | :------------ |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Pros              | Cons   			              | 
+| :---------------- | :-------------------------------------- |
+| Hired experience  | Reliance on vendor		      |
+| Saves time        | Costs      			      |
+|                   | No new knowledge			      |
+|                   | No unique solutions                     |
+|                   | Risk of not getting the perfect product |
