@@ -1,0 +1,3 @@
+| Evaluation criteria	                     | Relative importance (weight) | Alt 1: Custom Development | Score (1-5) | Weighted score | Alt 2: Packaged Software | Score (1-5) | Weighted score | Alt 3: Outsourcing | Score (1-5) | Weighted score |
+| :----------------------------------------- | :--------------------------- | :------------------------ | :---------- | :------------- | :----------------------- | :---------- | :------------- | :----------------- | :---------- | :------------- |
+
