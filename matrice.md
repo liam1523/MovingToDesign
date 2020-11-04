@@ -2,4 +2,5 @@
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Din mor er gay 		|
+| Din mor er gay  |
+| ----------------------------- |
